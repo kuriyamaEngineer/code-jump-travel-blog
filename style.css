@@ -435,6 +435,11 @@ a {
     text-align: center;
 }
 
+.about-wrap ul {
+    list-style: none;
+    padding-left: 3px;
+}
+
 footer {
     text-align: center;
     font-size: 10px;
